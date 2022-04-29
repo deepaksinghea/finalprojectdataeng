@@ -6,6 +6,10 @@ Using Scikit-Learn & StreamLit, I have built a web app for making heart disease 
 
 Algorithms used are KNN, SVM, Logistic Regression & Random Forest with hyper parameter tuning.
 
+# Jupyter Notebook 
+
+Jupyter Notebook consist up of EDA and model building process. Final Model is used in the python script.
+
 # Tech Stack : 
 
 1. StreamLit
@@ -19,6 +23,6 @@ Algorithms used are KNN, SVM, Logistic Regression & Random Forest with hyper par
 
 StreamLit + Git
 
-# Web Application URL :
+# Web Application URL / MVP:
 
 https://share.streamlit.io/deepaksinghea/finalprojectdataeng/main/app.py 
