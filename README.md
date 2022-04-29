@@ -1,9 +1,11 @@
 # finalprojectdataeng
 Academic Final Project @ Data Engineering Class
 
-Using Scikit-Learn & StreamLit, I have built a web app for making heart disease predictions using different algorithms and metrics to analyze.
+Using Scikit-Learn & StreamLit, I have built a web app for making heart disease predictions using different algorithms and metrics to analyze. Metrics include Accuracy Score, F1 score, classification report, ROC Curve and Confusion Matrix.
 
-Tech Stack : 
+Algorithms used are KNN, SVM, Logistic Regression & Random Forest.
+
+# Tech Stack : 
 
 StreamLit
 Pandas
@@ -12,10 +14,10 @@ Scikit-Learn
 Matplotlib
 Seaborn
 
-Deployment :
+# Deployment :
 
-Heroku + Git
+StreamLit + Git
 
-Web Application :
+# Web Application URL :
 
 https://share.streamlit.io/deepaksinghea/finalprojectdataeng/main/app.py 
