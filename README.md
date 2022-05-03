@@ -4,6 +4,10 @@ Academic Final Project @ Data Engineering Class
 
 Using Scikit-Learn & StreamLit, I have built a web app for making heart disease predictions using different algorithms and metrics to analyze. Metrics include Accuracy Score, F1 score, classification report, ROC Curve and Confusion Matrix.
 
+# Youtube Link for the video 
+
+https://youtu.be/ps7bY-D1d7o 
+
 Algorithms used are KNN, SVM, Logistic Regression & Random Forest with hyper parameter tuning.
 
 # Business Understanding / Executive Summary
